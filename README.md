@@ -27,6 +27,10 @@ DoBrief memanfaatkan struktur database yang kuat untuk mendukung alur kerja di a
 - user1@mail.com
 - user1234
 
+## Database Schema
+
+![](schema.png)
+
 ## API Documentation
 Dokumentasi api dapat diakses melalui swagger ui pada link berikut :
 ## https://w18.eswe.dev/v1/api-docs
