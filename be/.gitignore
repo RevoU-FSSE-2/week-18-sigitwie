@@ -1,0 +1,6 @@
+.env
+/config
+dist
+migrations
+node_modules
+seeders
